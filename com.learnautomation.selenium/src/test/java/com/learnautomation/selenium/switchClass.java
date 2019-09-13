@@ -14,6 +14,8 @@ public class switchClass {
 		
 	public static void main(String[] args) {
 		
+		//entry set in hash Map
+		
 		HashMap<String, Integer> hmap = new HashMap<String, Integer>();
 		hmap.put("A", 1);
 		hmap.put("B", 10);
